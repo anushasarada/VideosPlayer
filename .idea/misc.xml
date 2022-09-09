@@ -3,7 +3,15 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="../../../../.gradle/caches/transforms-3/71413863f8b9eac83770a630ed95707c/transformed/jetified-exoplayer-ui-2.18.1/res/drawable-anydpi-v21/exo_ic_audiotrack.xml" value="0.18" />
+        <entry key="../../../../.gradle/caches/transforms-3/71413863f8b9eac83770a630ed95707c/transformed/jetified-exoplayer-ui-2.18.1/res/layout/exo_player_control_view.xml" value="0.3211050724637681" />
+        <entry key="../../../../.gradle/caches/transforms-3/71413863f8b9eac83770a630ed95707c/transformed/jetified-exoplayer-ui-2.18.1/res/layout/exo_styled_player_control_view.xml" value="0.3211050724637681" />
+        <entry key="../../../../.gradle/caches/transforms-3/71413863f8b9eac83770a630ed95707c/transformed/jetified-exoplayer-ui-2.18.1/res/layout/exo_styled_player_view.xml" value="0.1675925925925926" />
+        <entry key="../../../../Library/Android/sdk/platforms/android-32/data/res/layout/simple_spinner_item.xml" value="0.19630192502532928" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.29030797101449274" />
+        <entry key="app/src/main/res/layout/custom_exo_styled_player_control_view.xml" value="0.3211050724637681" />
+        <entry key="app/src/main/res/layout/spinner_item_layout.xml" value="0.1675925925925926" />
+        <entry key="app/src/main/res/layout/video_item_layout.xml" value="0.6371308016877637" />
       </map>
     </option>
   </component>
